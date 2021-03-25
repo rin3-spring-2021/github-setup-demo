@@ -10,3 +10,5 @@ library(gitcreds)
 
 gitcreds_set()
 
+# Make this project have a git repository locally
+use_git()
