@@ -12,3 +12,8 @@ gitcreds_set()
 
 # Make this project have a git repository locally
 use_git()
+
+# Connect this to a GitHub repository
+?use_github()
+
+use_github(organisation = "rin3-spring-2021", private = TRUE)
