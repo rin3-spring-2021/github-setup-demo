@@ -17,3 +17,5 @@ use_git()
 ?use_github()
 
 use_github(organisation = "rin3-spring-2021", private = TRUE)
+
+# This is a comment
